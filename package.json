@@ -1,0 +1,27 @@
+{
+  "name": "cra-template-uki",
+  "version": "0.1.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript"
+  ],
+  "description": "TypeScript template for Create React App with material-ui, redux toolkit, redux saga, formik, yup, framer motion and helmet.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lkowalczyk87/cra-template-uki.git",
+    "directory": "packages/cra-template-uki"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://github.com/lkowalczyk87/cra-template-uki/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
